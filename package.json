@@ -1,0 +1,19 @@
+{
+  "name": "react-native-drive-auth",
+  "version": "1.0.0",
+  "description": "Multi-provider Drive OAuth Auth (Google, Dropbox, OneDrive) for React Native",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "keywords": ["react-native", "oauth", "google-drive", "onedrive", "dropbox", "auth"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_USERNAME/react-native-drive-auth"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "peerDependencies": {
+    "@react-native-google-signin/google-signin": "^8.0.0",
+    "react-native-app-auth": "^6.4.0",
+    "@react-native-async-storage/async-storage": "^1.17.11"
+  }
+}
